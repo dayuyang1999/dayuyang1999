@@ -85,6 +85,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **anything**
 -  <img src="https://img.icons8.com/color/48/000000/email.png" alt="git" width="20" height="20"/> [dayu@udel.edu](dayu@udel.edu)
 - <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="git" width="20" height="20"/> LinkedIn [@dayuyang](https://www.linkedin.com/in/dayu-dylan-y-0b9634140/)
+- <img src="https://img.icons8.com/color/48/000000/domain--v1.png" alt="git" width="20" height="20"/> Personal Website [@dayuyang](https://www.imagoodboy.com)
 
 
 
