@@ -89,14 +89,13 @@ Here are some ideas to get you started:
 
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimjelliti&show_icons=true" alt="ibrahimjelliti" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimjelliti&layout=compact" alt="ibrahimjelliti" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dayuyang1999&show_icons=true" alt="dayuyang" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayuyang1999&layout=compact" alt="dayuyang" />
 </p>
 
 
 <p align="center">
-  <a href="https://www.ibrahimjelliti.com/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/domain--v1.png" alt="https://www.ibrahimjelliti.com/" height="32" width="32" /></a>
-<a href="https://www.linkedin.com/in/ibrahimjelliti/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="https://www.linkedin.com/in/ibrahimjelliti/" height="32" width="32" /></a>
- <a href="https://twitter.com/intent/follow?screen_name=IbrahimJelliti" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="https://twitter.com/IbrahimJelliti" height="32" width="32" /></a>
+  <a href="https://www.imagoodboy.com/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/domain--v1.png" alt="https://www.imagoodboy.com/" height="32" width="32" /></a>
+<a href="https://www.linkedin.com/in/dayu-dylan-y-0b9634140/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="https://www.linkedin.com/in/ibrahimjelliti/" height="32" width="32" /></a>
 
 </p>
