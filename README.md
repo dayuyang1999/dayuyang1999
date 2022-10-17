@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi <img width="45" src="waving_hand.gif">, I'm Dayu Yang </h1>
 <p align="center">
 </p>
-<h3 align="center"> A Deep Learning Enthusiast Kowning Some Statistics
+<h3 align="center"> Interested in NLP, information retrieval, and making money in the stock market!
 <p align="center">
  <img src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/java.svg" alt="JAVA" width="20" height="20"/> 
  <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="20" height="20"/>
@@ -77,6 +77,15 @@ Here are some ideas to get you started:
 
 # My Public Works
 - 👨‍💻 All of my projects are available [here](https://github.com/dayuyang1999?tab=repositories)
+
+Here are some highlights:
+- A python package for strategy design, backtesting and live algorithm trading.
+  - [Direction](https://github.com/dayuyang1999/TradingBot)
+- A project aim to implement novel Deep learning method to predict Merger and Acquisition events in the market.
+   - [Data Collecting and Cleaning Part](https://github.com/dayuyang1999/Merger_Acquisition_Data)
+   - [Modeling Part](https://github.com/dayuyang1999/Merger_Acquisition_Prediction)
+   
+
 
 # My Blog Posts
 - [Posts by tags](https://imagoodboy.com/tags/)
