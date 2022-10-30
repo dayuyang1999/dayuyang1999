@@ -90,7 +90,7 @@ Here are some highlights:
 - A python package for strategy design, backtesting and live algorithm trading.
   - [Direction](https://github.com/dayuyang1999/TradingBot)
 
-## Demporal Dynamic Graph in Financial Market
+## Building a Temporal Dynamic Graph in Financial Market
 - A project aim to implement novel Deep learning method to predict Merger and Acquisition events in the market.
    - [Data Collecting and Cleaning Part](https://github.com/dayuyang1999/Merger_Acquisition_Data)
    - [Modeling Part](https://github.com/dayuyang1999/Merger_Acquisition_Prediction)
