@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi <img width="45" src="waving_hand.gif">, I'm Dayu Yang </h1>
 <p align="center">
 </p>
-<h3 align="center"> Interested in NLP, information retrieval, and making money in the stock market!
+<h3 align="center"> Interested in NLP, information retrieval, and financial market.
 <p align="center">
  <img src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/java.svg" alt="JAVA" width="20" height="20"/> 
  <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="20" height="20"/>
