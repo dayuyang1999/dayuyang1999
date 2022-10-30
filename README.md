@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 </p>
 
 # My Public Works
-- 👨‍💻 All of my projects are available [here](https://github.com/dayuyang1999?tab=repositories)
+- 👨‍💻 All of my public projects are available [here](https://github.com/dayuyang1999?tab=repositories)
 
 Here are some highlights:
 
