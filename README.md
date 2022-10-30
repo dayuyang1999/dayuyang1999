@@ -80,17 +80,17 @@ Here are some ideas to get you started:
 
 Here are some highlights:
 
-## NLP in Financial Documents
+### NLP in Financial Documents
 - Compute the Annual Search Fraction similarity as described by Lee et al. (2015)
    - [Direction](https://github.com/dayuyang1999/Compute_Annual_Search_Fraction_Similarity)
 - Efficiently Parse `Item2` in Annual Report(10-Q in EDGAR) of Public Firms
   - [Direction](https://github.com/dayuyang1999/Parse_Item2)
 
-## Algorithm Trading
+### Algorithm Trading
 - A python package for strategy design, backtesting and live algorithm trading.
   - [Direction](https://github.com/dayuyang1999/TradingBot)
 
-## Building a Temporal Dynamic Graph in Financial Market
+### Building a Temporal Dynamic Graph in Financial Market
 - A project aim to implement novel Deep learning method to predict Merger and Acquisition events in the market.
    - [Data Collecting and Cleaning Part](https://github.com/dayuyang1999/Merger_Acquisition_Data)
    - [Modeling Part](https://github.com/dayuyang1999/Merger_Acquisition_Prediction)
