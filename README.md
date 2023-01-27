@@ -107,11 +107,11 @@ Here are some highlights:
 - <img src="https://img.icons8.com/color/48/000000/domain--v1.png" alt="git" width="20" height="20"/> Personal Website [@dayuyang](https://www.imagoodboy.com)
 
 
-
+<!-- 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=dayuyang1999&show_icons=true" alt="dayuyang" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayuyang1999&layout=compact" alt="dayuyang" />
-</p>
+</p> -->
 
 
 <p align="center">
